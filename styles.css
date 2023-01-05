@@ -3,7 +3,6 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: darkgreen;
     text-align: center;
-    
 }
 a {
     font-size: large;
@@ -14,13 +13,13 @@ li {
     color: purple;
 }
 body {
-    margin-top: 15%;
+    margin-top: 100px;
 }
 h1 {
-    margin-bottom: 5%;
+    margin-bottom: auto;
 }
 h3 {
-    margin-top: 5%;
+    margin-top: auto;
 }
 img {
     border-radius: 10%;
